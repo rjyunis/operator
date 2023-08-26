@@ -1,0 +1,7 @@
+Anyone receiving this distribution of software, its source code, and documentation, in whole or part, is licensed to use it in any way he or she deems fit, including copying it, modifying it, compiling it, and redistributing or selling it either with or without modifications.
+
+This distribution has been made available on an AS-IS basis. Any user of this distribution should understand that I cannot provide technical support for it and will not be responsible for any consequences resulting from its use.
+
+Inclusion of a copy of this license is not required in any derivative works or redistributions, nor is any attribution or acknowledgement.
+
+COPYRIGHT YUNIS, RAMSEY J. 2023
